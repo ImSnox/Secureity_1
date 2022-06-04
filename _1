@@ -1,4 +1,5 @@
-wait(7)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Please Wait 5.35 Secconds" ,"All") -- msg
+wait(5.35)
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Extinct Lee                                                                                   {Assembled By: ImSnox}" ,"All")
 wait(.001)
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("For Help: Snox6785" ,"All") -- msg
