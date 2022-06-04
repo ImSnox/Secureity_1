@@ -1,5 +1,5 @@
--- game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Extinct Lee                                                                                   {Assembled By: ImSnox}" ,"All")
--- game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("For Help: Snox6785" ,"All") -- msg
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Extinct Lee                                                                                   {Assembled By: ImSnox}" ,"All")
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("For Help: Snox6785" ,"All") -- msg
 
 
 if "myworld reanimate again" then
