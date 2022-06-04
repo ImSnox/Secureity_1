@@ -1,5 +1,5 @@
-game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Void Killz                                                                                              [PRE ACCESS]" ,"All")
-game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("[MODED BY: ImSnox]" ,"All") -- msg
+-- game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Void Killz                                                                                              [PRE ACCESS]" ,"All")
+-- game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("[MODED BY: ImSnox]" ,"All") -- msg
 
 
 if "myworld reanimate again" then
