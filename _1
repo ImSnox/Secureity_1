@@ -1160,4 +1160,4 @@ while event:Wait() do
         end
     end
 end
-print("FE - Void Killz Loaded - "..os.date())
+print("FE - Extinct Lee Loaded - "..os.date())
